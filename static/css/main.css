@@ -1,0 +1,21 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  align:center;
+}
+h1
+{
+    font-size:20px;
+    text-align:center;
+    font-family: sans-serif;
+}
+form
+{
+align:center;
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
